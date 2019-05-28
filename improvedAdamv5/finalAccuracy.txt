@@ -1,0 +1,4 @@
+Top Accuracy: 0.97750
+
+
+Structure:  2 2 3 with 64 128 256

@@ -1,0 +1,5 @@
+Learning rate 10
+
+Top Testing Accuracy: 0.964375
+
+
